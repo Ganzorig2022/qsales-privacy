@@ -46,9 +46,21 @@ technical and organizational safeguards.
 - **Access / correction / deletion:** request it at **ganzorig.n@qpay.mn**. Because accounts
   are provisioned by QPay, deletion may also require contacting your QPay administrator.
 
-## 6. Retention
-We keep data only as long as needed for the service and for legal/financial-record
-requirements, after which it is deleted or anonymized.
+## 6. Data deletion requests
+To request deletion of your data from **QSales** (provided by KKTT LLC / QPay):
+
+1. Email **ganzorig.n@qpay.mn** from your registered address, with the subject
+   **"QSales data deletion request"** and your QSales username.
+2. We verify the request with your QPay administrator (accounts are provisioned by
+   QPay, not self-registered).
+3. We action it within **30 days** and confirm by email.
+
+**Deleted on request:** your account profile (username, name, email, phone), saved
+login credentials, push-notification token, and uploaded photos/documents.
+
+**Kept:** merchant contracts and bank-account/financial records are retained only as
+long as required by Mongolian financial-record and legal obligations, after which they
+are deleted or anonymized.
 
 ## 7. Changes & contact
 We may update this policy; the "Last updated" date will change. Questions:
